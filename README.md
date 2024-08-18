@@ -4,9 +4,9 @@ This project provides a comprehensive analysis of retail data stored in a SQL da
 ## Introduction
 This SQL script is designed to analyze and manipulate retail transaction data. The primary goals are to:
 
--- `Extract key insights from the data.`
--- `Perform necessary data preparations, such as formatting dates.`
--- `Analyze customer transactions, product categories, and related data.`
+ `Extract key insights from the data.`
+ `Perform necessary data preparations, such as formatting dates.`
+ `Analyze customer transactions, product categories, and related data.`
 
 ## Database Schema
 The database used in this analysis includes the following tables:
